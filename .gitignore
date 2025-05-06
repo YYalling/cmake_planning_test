@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+#build 这里的文件夹不提交git上
+/bin
+/build
